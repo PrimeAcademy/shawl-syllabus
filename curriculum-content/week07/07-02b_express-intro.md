@@ -4,7 +4,7 @@
 
 ### Background
 
-![full stack diagram](../images/full-stack-static.png)
+![full stack diagram](./images/full-stack-static.png)
 
 ```
 ,________,         .------,    |      .------,         .------.
