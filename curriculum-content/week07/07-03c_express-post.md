@@ -2,7 +2,7 @@
 
 Earlier we looked at how to request data from our server. Now we'll look at how to add new data to the server.
 
-![full stack diagram](../images/full-stack-post-diagram.png)
+![full stack diagram](./images/full-stack-post-diagram.png)
 
 ## Server setup
 

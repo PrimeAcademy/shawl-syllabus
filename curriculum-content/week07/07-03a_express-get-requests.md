@@ -2,7 +2,7 @@
 
 In addition to sending back static files, we can also send back *dynamic* data. 
 
-![full stack diagram](../images/full-stack-get-diagram.png)
+![full stack diagram](./images/full-stack-get-diagram.png)
 
 Let's make an application to get an inspirational quote! 
 
