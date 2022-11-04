@@ -20,7 +20,7 @@ Designed to be able to efficiently read and write large amounts of data when pro
 
 ## Intro to Postico
 
-![Postico Postgres Client](images/postico-client.jpg)
+![Postico Postgres Client](diagrams/postico-client.jpg)
 
 - Start your database
 
@@ -52,7 +52,7 @@ CREATE TABLE name (
 );  
 ```
 
-![Tables in Database](images/tables-in-database.jpg)
+![Tables in Database](diagrams/tables-in-database.jpg)
 
 - Discuss [data types](https://www.postgresql.org/docs/8.1/static/datatype.html)
   - `serial` auto increment

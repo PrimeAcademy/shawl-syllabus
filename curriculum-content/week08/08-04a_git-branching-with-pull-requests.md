@@ -38,14 +38,14 @@ GitHub Pull Requests allow others to review our code and approve the changes. It
 
 On your github project repo. Click the `settings` tab and then click `Manage access` in the left-side menu. Add your team members.
 
-![github-collaborator](../images/github-manage-access.png)
+![github-collaborator](diagrams/github-manage-access.png)
 
 
 ## Overview
 
 Code flows to each developer through **main**. All work is done in branches and pushed up to GitHub and then merged into main only through Pull Requests.
 
-![github-pr-flow](../images/github-pr-flow-chart.png)
+![github-pr-flow](diagrams/github-pr-flow-chart.png)
 
 
 

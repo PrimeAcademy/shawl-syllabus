@@ -7,7 +7,7 @@
 
 Routers (routing modules) can be used to organize code. They are very similar to how we would use a module to contain logic, classes, or data. The difference is that routers must export a route (URL to function mapping) `module.exports = router;`. All traffic goes into our `server.js` file and flows into the corresponding router.
 
-![full stack](images/router_conceptual.jpg)
+![full stack](diagrams/router_conceptual.jpg)
 
 ## Routes
 
