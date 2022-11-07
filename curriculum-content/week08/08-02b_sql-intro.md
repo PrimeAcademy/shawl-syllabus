@@ -1,8 +1,5 @@
 # Introduction to SQL
 
-[Code from Lecture](https://github.com/PrimeAcademy/fomalhaut-sql-basics)
-
-
 ## SQL
 Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data.
 
@@ -21,12 +18,6 @@ Designed to be able to efficiently read and write large amounts of data when pro
 ## Intro to Postico
 
 ![Postico Postgres Client](diagrams/postico-client.jpg)
-
-- Start your database
-
-  `brew services list`
-
-  `brew services start postgresql`
 
 - Open Postico
 - Create a database named `music_library`
