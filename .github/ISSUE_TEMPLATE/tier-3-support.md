@@ -9,10 +9,14 @@ assignees: ''
 
 ## Description
 
+**Your Name**
+<!-- We dont always know your Github username -->
+
+
 **What do you want to happen?**
 
 **What is actually happening?**
-<!-- include error codes if you havae them. -->
+<!-- include error codes if you have them. -->
 
 
 ## Screenshots / Code Snippets
